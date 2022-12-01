@@ -1,0 +1,77 @@
+{
+    "items":[
+        {
+            "sys": {"id":"1"},
+            "fields":{
+                "title": "Electric Rice cooker ",
+                "price": 4999,
+                "image":{"fields": {"file":{"url":"image/rice.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id":"2"},
+            "fields":{
+                "title": "moder electric refrigerator",
+                "price": 45000,
+                "image":{"fields": {"file":{"url":"image/fridge"}}}
+            }
+        },
+
+        {
+            "sys": {"id":"3"},
+            "fields":{
+                "title": "Vacuum cleaner",
+                "price": 10000,
+                "image":{"fields": {"file":{"url":"image/vacuum.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "4"},
+            "fields":{
+                "title": "High quality washing machine",
+                "price": 60000,
+                "image":{"fields": {"file":{"url":"image/washing.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "5"},
+            "fields":{
+                "title": "Smart television",
+                "price": 40000,
+                "image":{"fields": {"file":{"url":"image/tv.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "6"},
+            "fields":{
+                "title": "Brand new iphones",
+                "price": 120000,
+                "image":{"fields": {"file":{"url":"image/iphone.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "7"},
+            "fields":{
+                "title": "Power saws for sale",
+                "price": 90000,
+                "image":{"fields": {"file":{"url":"image/saw.jpg"}}}
+            }
+        },
+
+        {
+            "sys": {"id": "8"},
+            "fields":{
+                "title": "New and refurbished laptops",
+                "price": 35000,
+                "image":{"fields": {"file":{"url":"image/rice.jpg"}}}
+            }
+        }
+
+        
+    ]
+}
